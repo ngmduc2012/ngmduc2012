@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ngmduc2012
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 You can contect me:
+- Email:  ngmduc2012@gmail.com
+- Facebook: https://www.facebook.com/NguyenMinhDuc2012
+- Telegram: ngmduc2012 
+
 
 <!---
 ngmduc2012/ngmduc2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
