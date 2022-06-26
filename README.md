@@ -103,8 +103,8 @@
 
   <tr>
       <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+      <a href="#java">
+        <img src="https://banner2.cleanpng.com/20180805/iot/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766ab2d98b8.1809687115335031471868.jpg" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
     </td>
