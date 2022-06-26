@@ -1,6 +1,6 @@
 
 <h1 align="center">
- 👋 Hi, I'm mahmoud miehob!
+ 👋 Hi, I'm Nguyễn Minh Đức
 </h1>
  
 
