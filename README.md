@@ -54,11 +54,11 @@
 
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoudmiehob&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoudmiehob&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoudmiehob&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoudmiehob&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoudmiehob&theme=solarized_dark&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngmduc2012&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ngmduc2012&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ngmduc2012&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ngmduc2012&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ngmduc2012&theme=solarized_dark&utcOffset=8">
 	
 </p>
 
