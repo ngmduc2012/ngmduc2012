@@ -34,66 +34,19 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/ngmduc2012"><img alt="ngmduc2012's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahmoudmiehob&custom_title=mahmoudmiehob's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/ngmduc2012"><img alt="ngmduc2012's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ngmduc2012&custom_title=ngmduc2012's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudmiehob" alt="mahmoud" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngmduc2012" alt="ngmduc2012" /></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <p align='center'>
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
 
-```php
-
-<?php
-
-
-class About extends Me
-{
-
-    public function getInfo($name , $age)
-    {
-	echo "my name is " . $name . " and my age is " . $ago ;
-    }
-    
-    
-    public function getCurrentWorkplace()
-    {
-        return [
-            'workplace' => [
-                'company' => 'freelancer',
-                'position' => 'Home'         
-            ]
-        ];
-    }
-
-    public function getKnowledge()
-    {
-        return [
-	    Html::class,
-	    Css::class,
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            Bootstrap::class,
-        ];
-    }
-
-    public function getFutureGoal()
-    {
-        return 'To contribute to open source.';
-    }
-}
-
-?>
-
-
-```
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
