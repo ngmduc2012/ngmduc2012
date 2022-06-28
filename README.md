@@ -124,7 +124,7 @@
   <tr>
       <td align="center" width="96">
       <a href="#java">
-        <img src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" width="48" height="48" alt="Laravel" />
+        <img src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" width="48" height="48" alt="Java" />
       </a>
       <br>Laravel
     </td>
