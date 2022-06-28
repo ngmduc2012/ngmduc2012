@@ -95,19 +95,7 @@
       </a>
       <br>Java
     </td>
-    <td align="center" width="96">
-        <a href="#livewire">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="48" height="48"
-                alt="livewire" />
-        </a>
-        <br>Kotlin
-    </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>MySQL
-    </td>
+
 	
   </tr>
 
