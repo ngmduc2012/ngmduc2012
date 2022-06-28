@@ -105,13 +105,13 @@
         <br>iOS
     </td>
   
-	  <td align="center" width="96">
+<td align="center" width="96">
       <a href="#Angular">
         <img src="https://seeklogo.com/images/A/angular-icon-logo-9946B9795D-seeklogo.com.png" width="48" height="48" alt="Angular" />
       </a>
       <br>Angular
     </td>
-	   <td align="center" width="96">
+<td align="center" width="96">
       <a href="#Flutter">
         <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/flutter_I6JGxZE.jpg" width="48" height="48" alt="Flutter" />
       </a>
@@ -120,37 +120,37 @@
   </tr>
    <tr>
      
-      <td align="center" width="96">
+  <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
-      <td align="center"  width="96">
+ <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
       <br>VS Code
     </td>
-	    <td align="center"  width="96">
+<td align="center"  width="96">
       <a href="#Studio">
         <img src="https://pbs.twimg.com/profile_images/1276168873226784768/oTUrXdo6_400x400.jpg" width="48" height="48" alt="Studio" />
       </a>
       <br>Android Studio
     </td>
-	    <td align="center"  width="96">
+<td align="center"  width="96">
       <a href="#IntelIJ">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="48" height="48" alt="IntelIJ" />
       </a>
       <br>IntelIJ
     </td>
-	    <td align="center"  width="96">
+<td align="center"  width="96">
       <a href="#Xcode">
         <img src="https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/images/app-icon-realistic-materials_2x.png" width="48" height="48" alt="Xcode" />
       </a>
       <br>Xcode
     </td>
-      <td align="center" width="96">
+<td align="center" width="96">
       <a href="#postman" >
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       </a>
