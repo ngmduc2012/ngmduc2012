@@ -95,39 +95,57 @@
       </a>
       <br>Java
     </td>
-
-	
+	      <td align="center" width="96">
+        <a href="#Kotlin">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="48" height="48"
+                alt="Kotlin" />
+        </a>
+        <br>Kotlin
+    </td>
+      <td align="center" width="96">
+      <a href="#MySQL">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+	    <td align="center" width="96">
+      <a href="#swift">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" width="48" height="48" alt="swift" />
+      </a>
+      <br>Swift
+    </td>
+	  <td align="center" width="96">
+      <a href="#Dart">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="48" height="48" alt="Dart" />
+      </a>
+      <br>Dart
+    </td>	
   </tr>
 
   <tr>
       <td align="center" width="96">
       <a href="#android">
-        <img src="https://thietkelogo.vn/wp-content/uploads/2016/02/logo-android.png" width="48" height="48" alt="Java" />
+        <img src="https://thietkelogo.vn/wp-content/uploads/2016/02/logo-android.png" width="48" height="48" alt="android" />
       </a>
       <br>Android
     </td>
     <td align="center" width="96">
-        <a href="#livewire">
+        <a href="#iOS">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1024px-IOS_logo.svg.png" width="48" height="48"
-                alt="livewire" />
+                alt="iOS" />
         </a>
         <br>iOS
     </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>MySQL
-    </td>
+  
 	  <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://seeklogo.com/images/A/angular-icon-logo-9946B9795D-seeklogo.com.png" width="48" height="48" alt="Laravel" />
+      <a href="#Angular">
+        <img src="https://seeklogo.com/images/A/angular-icon-logo-9946B9795D-seeklogo.com.png" width="48" height="48" alt="Angular" />
       </a>
       <br>Angular
     </td>
 	   <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/flutter_I6JGxZE.jpg" width="48" height="48" alt="Laravel" />
+      <a href="#Flutter">
+        <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/flutter_I6JGxZE.jpg" width="48" height="48" alt="Flutter" />
       </a>
       <br>Flutter
     </td>
@@ -147,26 +165,26 @@
       <br>VS Code
     </td>
 	    <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://pbs.twimg.com/profile_images/1276168873226784768/oTUrXdo6_400x400.jpg" width="48" height="48" alt="Jamstack" />
+      <a href="#Studio">
+        <img src="https://pbs.twimg.com/profile_images/1276168873226784768/oTUrXdo6_400x400.jpg" width="48" height="48" alt="Studio" />
       </a>
       <br>Android Studio
     </td>
 	    <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="48" height="48" alt="Jamstack" />
+      <a href="#IntelIJ">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="48" height="48" alt="IntelIJ" />
       </a>
       <br>IntelIJ
     </td>
 	    <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/images/app-icon-realistic-materials_2x.png" width="48" height="48" alt="Jamstack" />
+      <a href="#Xcode">
+        <img src="https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/images/app-icon-realistic-materials_2x.png" width="48" height="48" alt="Xcode" />
       </a>
       <br>Xcode
     </td>
       <td align="center" width="96">
       <a href="#postman" >
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
     </td>
