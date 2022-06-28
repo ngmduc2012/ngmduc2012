@@ -130,10 +130,10 @@
     </td>
     <td align="center" width="96">
         <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
+            <img src="https://www.logo.wine/logo/Kotlin_%28programming_language%29" width="48" height="48"
                 alt="livewire" />
         </a>
-        <br>Livewire
+        <br>Kotlin
     </td>
       <td align="center" width="96">
       <a href="#laravel">
