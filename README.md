@@ -89,40 +89,7 @@
 
 <table align="center">
   <tr>
-      <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-    <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
-      </a>
-      <br>CSS3
-    </td>
      <td align="center" width="96">
-      <a href="#bootstrap">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-     <td align="center" width="96">
-      <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
-      </a>
-      <br>Javascript
-    </td>
-     <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
-      </a>
-      <br>Vue JS
-    </td>
-  </tr>
-
-  <tr>
-      <td align="center" width="96">
       <a href="#java">
         <img src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" width="48" height="48" alt="Java" />
       </a>
@@ -130,7 +97,7 @@
     </td>
     <td align="center" width="96">
         <a href="#livewire">
-            <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" width="48" height="48"
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="48" height="48"
                 alt="livewire" />
         </a>
         <br>Kotlin
@@ -141,14 +108,55 @@
       </a>
       <br>MySQL
     </td>
+	  <td align="center" width="96">
+      <a href="#swift">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" width="48" height="48" alt="Java" />
+      </a>
+      <br>Swift
+    </td>
+	  <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Dart
+    </td>
+  </tr>
+
+  <tr>
+      <td align="center" width="96">
+      <a href="#android">
+        <img src="https://thietkelogo.vn/wp-content/uploads/2016/02/logo-android.png" width="48" height="48" alt="Java" />
+      </a>
+      <br>Android
+    </td>
+    <td align="center" width="96">
+        <a href="#livewire">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1024px-IOS_logo.svg.png" width="48" height="48"
+                alt="livewire" />
+        </a>
+        <br>iOS
+    </td>
+      <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>MySQL
+    </td>
+	  <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://seeklogo.com/images/A/angular-icon-logo-9946B9795D-seeklogo.com.png" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Angular
+    </td>
+	   <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/flutter_I6JGxZE.jpg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Flutter
+    </td>
   </tr>
    <tr>
-      <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
+     
       <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
@@ -160,6 +168,24 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
       <br>VS Code
+    </td>
+	    <td align="center"  width="96">
+      <a href="#vscode">
+        <img src="https://pbs.twimg.com/profile_images/1276168873226784768/oTUrXdo6_400x400.jpg" width="48" height="48" alt="Jamstack" />
+      </a>
+      <br>Android Studio
+    </td>
+	    <td align="center"  width="96">
+      <a href="#vscode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="48" height="48" alt="Jamstack" />
+      </a>
+      <br>IntelIJ
+    </td>
+	    <td align="center"  width="96">
+      <a href="#vscode">
+        <img src="https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/images/app-icon-realistic-materials_2x.png" width="48" height="48" alt="Jamstack" />
+      </a>
+      <br>Xcode
     </td>
       <td align="center" width="96">
       <a href="#postman" >
