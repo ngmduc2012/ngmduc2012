@@ -158,7 +158,7 @@
     </td>
 <td align="center" width="96">
       <a href="#excell" >
-        <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" width="48" height="48" alt="excell" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" width="48" height="48" alt="excell" />
       </a>
       <br>Excell
     </td>
