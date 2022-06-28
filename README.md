@@ -108,18 +108,7 @@
       </a>
       <br>MySQL
     </td>
-	  <td align="center" width="96">
-      <a href="#swift">
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" width="48" height="48" alt="Java" />
-      </a>
-      <br>Swift
-    </td>
-	  <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Dart
-    </td>
+	
   </tr>
 
   <tr>
