@@ -20,14 +20,11 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
->✔  I’m currently working on mobile app job  <br>
-✔  I’m currently learning Everything related with software engineering .. <br>
-✔  All of my projects are available at https://github.com/ngmduc2012?tab=repositories <br>
-✔  Ask me about dart,kotlin framework and all about learning IT in flutter university <br>
-✔  How to reach me: <br> &nbsp; &nbsp; * [Facebook-@ngmduc2012](https://www.facebook.com/ngmduc2012/) <br>
+>✔  Tôi là nhà phát triển phần mềm cho thiết bị di động  <br>
+✔  Liên hệ với tôi: <br> &nbsp; &nbsp; * [Facebook-@ngmduc2012](https://www.facebook.com/ngmduc2012/) <br>
                          &nbsp; &nbsp; * [Email-@ngmduc2012](ngmduc2012@gmail.com) <br>
                          &nbsp; &nbsp; * [linkedIn-@ngmduc2012](https://www.linkedin.com/in/ngmduc2012) <br>
-✔  Know about my experiences : https://www.linkedin.com/in/ngmduc2012 <br>
+✔  Kinh nghiệm làm việc : https://www.linkedin.com/in/ngmduc2012 <br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
