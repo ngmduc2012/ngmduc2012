@@ -88,39 +88,7 @@
 <h2 align="left"> 💻 Languages and Tools:</h2>
 
 <table align="center">
-  <tr>
-     <td align="center" width="96">
-      <a href="#java">
-        <img src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-	      <td align="center" width="96">
-        <a href="#Kotlin">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="48" height="48"
-                alt="Kotlin" />
-        </a>
-        <br>Kotlin
-    </td>
-      <td align="center" width="96">
-      <a href="#MySQL">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-	    <td align="center" width="96">
-      <a href="#swift">
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" width="48" height="48" alt="swift" />
-      </a>
-      <br>Swift
-    </td>
-	  <td align="center" width="96">
-      <a href="#Dart">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="48" height="48" alt="Dart" />
-      </a>
-      <br>Dart
-    </td>	
-  </tr>
+ 
 
   <tr>
       <td align="center" width="96">
