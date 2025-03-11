@@ -23,8 +23,7 @@
 ✔  I’m currently learning Everything related with software engineering .. <br>
 ✔  All of my projects are available at https://github.com/ngmduc2012?tab=repositories <br>
 ✔  Ask me about dart,kotlin framework and all about learning IT in flutter university <br>
-✔  How to reach me: <br> &nbsp; &nbsp; * [Facebook-@ngmduc2012](https://www.facebook.com/ngmduc2012/) <br>
-                         &nbsp; &nbsp; * [Email-@ngmduc2012](ngmduc2012@gmail.com) <br>
+✔  How to reach me: <br> &nbsp; &nbsp; * [Email-@ngmduc2012](ngmduc2012@gmail.com) <br>
                          &nbsp; &nbsp; * [linkedIn-@ngmduc2012](https://www.linkedin.com/in/ngmduc2012) <br>
 ✔  Know about my experiences : https://www.linkedin.com/in/ngmduc2012 <br>
 
@@ -169,24 +168,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ngmduc2012"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-   <a href="https://www.facebook.com/ngmduc2012"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
    <a href="mailto:ngmduc2012@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
-  <a href="https://www.youtube.com/channel/UCl8Bo7MYb8Ib7w67Qr7ardg"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
-
 </p>
 
 ## ❤ Views and Followers
 
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=ngmduc2012&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
-
+_[![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy_Me_A_Coffee-blue?logo=buymeacoffee)](https://www.buymeacoffee.com/ducmng12g)_
+_[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal)](https://paypal.me/ngmduc)_
+_[![Sponsor](https://img.shields.io/badge/Sponsor-Become_A_Sponsor-blue?logo=githubsponsors)](https://github.com/sponsors/ngmduc2012)_
+_[![Support Me on Ko-fi](https://img.shields.io/badge/Donate-Ko_fi-red?logo=ko-fi)](https://ko-fi.com/I2I81AEJG8)_
 
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p>	
 
- <a href='https://ko-fi.com/I2I81AEJG8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-<a href="https://www.buymeacoffee.com/ducmng12g" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <br>
