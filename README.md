@@ -19,17 +19,13 @@ tutorials, documentation, and open-source plugins.
 
 ## Writing and Resources
 
-| Resource | Link |
-| --- | --- |
-| Flutter articles (GitBook) | https://wong-coupon.gitbook.io/flutter/ |
-| Medium | https://medium.com/@ngmduc2012 |
+- Flutter articles (GitBook): [wong-coupon.gitbook.io/flutter](https://wong-coupon.gitbook.io/flutter/)
+- Medium: [medium.com/@ngmduc2012](https://medium.com/@ngmduc2012)
 
 ## Open Source
 
-| Type | Link |
-| --- | --- |
-| Flutter plugins (pub.dev) | https://pub.dev/publishers/wongcoupon.com/packages |
-| GitHub repositories | https://github.com/ngmduc2012?tab=repositories |
+- Flutter plugins (pub.dev): [pub.dev/wongcoupon](https://pub.dev/publishers/wongcoupon.com/packages)
+- GitHub repositories: [github.com/ngmduc2012](https://github.com/ngmduc2012?tab=repositories)
 
 ## Products
 
