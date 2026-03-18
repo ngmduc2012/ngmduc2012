@@ -36,6 +36,7 @@ tutorials, documentation, and open-source plugins.
 
 - LinkedIn: https://www.linkedin.com/in/ngmduc2012
 - Email: ngmduc2012@gmail.com
+- Personal: https://wong-coupon.gitbook.io/ducmng12
 
 ## Support
 
