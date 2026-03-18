@@ -1,5 +1,5 @@
 ---
-description: Thông tin liên hệ đơn giản.
+description: Thông tin liên hệ.
 ---
 
 # Liên hệ

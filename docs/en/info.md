@@ -1,5 +1,5 @@
 ---
-description: Simple contact information.
+description: Contact information.
 ---
 
 # Contact
