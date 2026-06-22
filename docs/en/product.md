@@ -13,3 +13,9 @@ Read more: [wong-coupon.gitbook.io/flutter](https://wong-coupon.gitbook.io/flutt
 My Wong is a personal space where I share experiences, lessons, and reflections from my own life.
 
 Read more: [wong-coupon.gitbook.io/my-wong](https://wong-coupon.gitbook.io/my-wong)
+
+### Wong Coupon
+
+Wong Coupon is where I share articles about Buddhist teachings, Dharma practice, and lived practice in daily life.
+
+Read more: [wong-coupon.gitbook.io/wong-coupon](https://wong-coupon.gitbook.io/wong-coupon)
