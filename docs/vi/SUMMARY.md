@@ -4,6 +4,10 @@
 
 * [Liên hệ](info.md)
 
+## Sản phẩm
+
+* [My Product](product.md)
+
 ## Thanh toán
 
 * [Thanh toán Việt Nam](payment-vn.md)
@@ -13,6 +17,3 @@
 
 * [Ủng hộ](donate.md)
 
-## Sản phẩm
-
-* [My Product](product.md)

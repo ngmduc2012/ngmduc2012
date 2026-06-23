@@ -4,6 +4,10 @@
 
 * [Contact](info.md)
 
+## Product
+
+* [My Product](product.md)
+
 ## Payment
 
 * [Vietnam payment](payment-vn.md)
@@ -13,6 +17,3 @@
 
 * [Donate](donate.md)
 
-## Product
-
-* [My Product](product.md)
