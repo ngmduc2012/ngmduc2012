@@ -8,6 +8,11 @@ Wong Coupon là nơi tôi chia sẻ những điều tìm hiểu về Phật họ
 
 **[Khám phá Wong Coupon](https://wong-coupon.gitbook.io/wong-coupon)**
 
+<figure>
+  <img src=".gitbook/assets/wong-coupon-ink-wash-hero-01.png" alt="Tranh thủy mặc với chuỗi hạt, chén trà, cuốn sổ mở và điện thoại đặt úp trên nền giấy sáng.">
+  <figcaption><p>Một góc thực hành và ghi chép hằng ngày.</p></figcaption>
+</figure>
+
 ## Đọc và tìm hiểu
 
 Bộ tài liệu giới thiệu các khái niệm Phật học cơ bản, phương pháp tu Tịnh Độ và thực hành Thiền. Bạn có thể bắt đầu từ phần định nghĩa, sau đó chọn chủ đề phù hợp với điều mình muốn tìm hiểu.

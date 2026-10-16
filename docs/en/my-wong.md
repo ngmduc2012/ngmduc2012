@@ -8,6 +8,11 @@ My Wong is the notebook where I keep things I explore beyond writing software: a
 
 **[Explore My Wong](https://wong-coupon.gitbook.io/my-wong)**
 
+<figure>
+  <img src=".gitbook/assets/my-wong-clay-hero-01.png" alt="An open notebook, compass, pencil and desk lamp modeled in coral, cream and dusty teal clay.">
+  <figcaption><p>Keeping notes and exploring new tools and ideas in My Wong.</p></figcaption>
+</figure>
+
 ## What I share
 
 * **Tools and utilities:** notes, shortcuts and ways to use tools at work.

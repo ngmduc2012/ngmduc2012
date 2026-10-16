@@ -8,6 +8,11 @@ My Dev is where I record how I solve problems while building software. I share t
 
 **[Explore My Dev](https://wong-coupon.gitbook.io/flutter/)**
 
+<figure>
+  <img src=".gitbook/assets/my-dev-paper-cobalt-hero-01.png" alt="A laptop and three connected software components illustrated in cobalt-blue and white folded paper.">
+  <figcaption><p>Connected components forming a system, illustrated as a folded-paper model.</p></figcaption>
+</figure>
+
 ## What you will find
 
 * **My Flutter:** Flutter applications, architecture, state management, data integration, testing and operations.

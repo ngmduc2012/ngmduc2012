@@ -8,6 +8,11 @@ Wong Coupon is where I share what I learn about Buddhist teachings, practice met
 
 **[Explore Wong Coupon](https://wong-coupon.gitbook.io/wong-coupon)**
 
+<figure>
+  <img src=".gitbook/assets/wong-coupon-ink-wash-hero-01.png" alt="An ink-wash illustration of chanting beads, a tea cup, an open notebook and a phone placed face down on light paper.">
+  <figcaption><p>A quiet corner for daily practice and notes.</p></figcaption>
+</figure>
+
 ## Read and learn
 
 The collection introduces basic Buddhist concepts, Pure Land practice and meditation. You can start with the definitions and then choose a subject you would like to explore.

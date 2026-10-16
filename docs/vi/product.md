@@ -8,6 +8,11 @@ My Dev là nơi tôi ghi lại cách mình giải quyết những vấn đề kh
 
 **[Khám phá My Dev](https://wong-coupon.gitbook.io/flutter/)**
 
+<figure>
+  <img src=".gitbook/assets/my-dev-paper-cobalt-hero-01.png" alt="Laptop và ba thành phần phần mềm kết nối với nhau, được minh họa bằng giấy gấp xanh cobalt và trắng.">
+  <figcaption><p>Các thành phần kết nối thành một hệ thống, minh họa bằng mô hình giấy gấp.</p></figcaption>
+</figure>
+
 ## Bạn sẽ tìm thấy gì
 
 * **My Flutter:** xây ứng dụng Flutter, tổ chức kiến trúc, quản lý trạng thái, kết nối dữ liệu, kiểm thử và vận hành.

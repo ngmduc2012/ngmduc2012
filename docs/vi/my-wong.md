@@ -8,6 +8,11 @@ My Wong là cuốn sổ tôi dùng để lưu lại những điều tìm hiểu 
 
 **[Khám phá My Wong](https://wong-coupon.gitbook.io/my-wong)**
 
+<figure>
+  <img src=".gitbook/assets/my-wong-clay-hero-01.png" alt="Cuốn sổ mở, la bàn, bút và đèn bàn được tạo hình bằng đất sét màu san hô, kem và xanh ngọc.">
+  <figcaption><p>Ghi chép và khám phá những công cụ, ý tưởng mới trong My Wong.</p></figcaption>
+</figure>
+
 ## Những điều tôi chia sẻ
 
 * **Công cụ và tiện ích:** các ghi chú, phím tắt và cách sử dụng công cụ trong công việc.
