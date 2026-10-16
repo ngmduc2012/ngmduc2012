@@ -8,18 +8,13 @@ Wong Coupon là nơi tôi chia sẻ những điều tìm hiểu về Phật họ
 
 **[Khám phá Wong Coupon](https://wong-coupon.gitbook.io/wong-coupon)**
 
-<figure>
-  <img src=".gitbook/assets/my-peace-quiet-notebook-01.png" alt="Chuỗi hạt, cuốn sổ và điện thoại được minh họa bằng nét mực trên nền giấy ngà.">
-  <figcaption><p>Một góc thực hành và ghi chép, minh họa cho những nội dung tôi chia sẻ trong Wong Coupon.</p></figcaption>
-</figure>
-
 ## Đọc và tìm hiểu
 
 Bộ tài liệu giới thiệu các khái niệm Phật học cơ bản, phương pháp tu Tịnh Độ và thực hành Thiền. Bạn có thể bắt đầu từ phần định nghĩa, sau đó chọn chủ đề phù hợp với điều mình muốn tìm hiểu.
 
 ## Ứng dụng My Peace
 
-**My Peace** là ứng dụng Android tôi phát triển cùng với các nội dung của Wong Coupon. Bạn có thể bắt đầu bằng một phiên đếm niệm Phật bằng tay, sau đó dùng giọng nói, hẹn giờ hoặc ghi lại tiến độ theo nhu cầu.
+Tôi phát triển **My Peace** từ mong muốn tạo ra những công cụ hỗ trợ người tu hành. Với ứng dụng Android này, bạn có thể bắt đầu bằng một phiên đếm niệm Phật bằng tay, sau đó dùng giọng nói, hẹn giờ hoặc ghi lại tiến độ theo nhu cầu.
 
 Trong **[bài giới thiệu My Peace](https://wong-coupon.gitbook.io/wong-coupon/wong-coupon-vi/ung-dung/apps)**, tôi trình bày cách bắt đầu và những điểm cần lưu ý khi chọn từng cách đếm.
 
