@@ -1,21 +1,25 @@
 ---
-description: Giới thiệu ngắn về My Flutter.
+description: Kinh nghiệm xây dựng phần mềm với Flutter, AI và ReactJS từ các dự án thực tế.
 ---
 
-### My Flutter
+# My Dev
 
-My Flutter là nơi tôi chia sẻ các bài viết Flutter ngắn gọn và dễ hiểu.
+My Dev là nơi tôi chia sẻ những bài học trong quá trình xây dựng và vận hành phần mềm. Các bài viết đi từ vấn đề thực tế, giải thích cách tiếp cận và đưa ra ví dụ để bạn có thể áp dụng vào dự án của mình.
 
-Xem thêm: [wong-coupon.gitbook.io/flutter](https://wong-coupon.gitbook.io/flutter/)
+**[Khám phá My Dev](https://wong-coupon.gitbook.io/flutter/)**
 
-### My Wong
+## Bạn sẽ tìm thấy gì
 
-My Wong là không gian cá nhân nơi tôi chia sẻ những trải nghiệm, bài học từ trải nghiệm cuộc sống của bản thân.
+* **My Flutter:** xây ứng dụng Flutter, tổ chức kiến trúc, quản lý trạng thái, kết nối dữ liệu, kiểm thử và vận hành.
+* **My AI:** xây tính năng AI và sử dụng coding agent trong công việc phát triển phần mềm.
+* **My ReactJS:** React, TypeScript, giao diện realtime, quản lý dữ liệu, kiểm thử và triển khai ứng dụng web.
 
-Xem thêm: [wong-coupon.gitbook.io/my-wong](https://wong-coupon.gitbook.io/my-wong)
+## Dành cho ai
 
-### Wong Coupon
+Nếu bạn đang làm ứng dụng di động, phát triển web hoặc đưa AI vào sản phẩm, My Dev là nơi tham khảo cách giải quyết những bài toán gặp trong công việc hằng ngày.
 
-Wong Coupon là nơi tôi chia sẻ các bài viết về Phật học, pháp tu và những trải nghiệm thực hành trong đời sống.
+Bạn có thể chọn một nhóm chủ đề phù hợp rồi đọc từ vấn đề mình đang cần giải quyết. Mỗi bài tập trung vào bối cảnh, cách làm và những điểm cần cân nhắc khi áp dụng.
 
-Xem thêm: [wong-coupon.gitbook.io/wong-coupon](https://wong-coupon.gitbook.io/wong-coupon)
+## Bắt đầu đọc
+
+**[Mở bộ tài liệu My Dev](https://wong-coupon.gitbook.io/flutter/)** và chọn My Flutter, My AI hoặc My ReactJS trong mục lục.

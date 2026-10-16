@@ -1,21 +1,25 @@
 ---
-description: Simple introduction to My Flutter.
+description: Lessons from building software with Flutter, AI and ReactJS in real projects.
 ---
 
-### My Flutter
+# My Dev
 
-My Flutter is a simple place where I share Flutter guides and notes.
+My Dev is where I share lessons from building and running software. Each article starts with a practical problem, explains the approach and provides examples you can adapt to your own project.
 
-Read more: [wong-coupon.gitbook.io/flutter](https://wong-coupon.gitbook.io/flutter/)
+**[Explore My Dev](https://wong-coupon.gitbook.io/flutter/)**
 
-### My Wong
+## What you will find
 
-My Wong is a personal space where I share experiences, lessons, and reflections from my own life.
+* **My Flutter:** Flutter applications, architecture, state management, data integration, testing and operations.
+* **My AI:** building AI features and using coding agents in software development.
+* **My ReactJS:** React, TypeScript, realtime interfaces, data management, testing and web application delivery.
 
-Read more: [wong-coupon.gitbook.io/my-wong](https://wong-coupon.gitbook.io/my-wong)
+## Who it is for
 
-### Wong Coupon
+If you build mobile apps, develop for the web or add AI to a product, My Dev offers approaches to problems you may encounter in your daily work.
 
-Wong Coupon is where I share articles about Buddhist teachings, Dharma practice, and lived practice in daily life.
+Choose a subject that interests you and start with the problem you need to solve. Each article focuses on the context, the implementation and the considerations that matter when applying it.
 
-Read more: [wong-coupon.gitbook.io/wong-coupon](https://wong-coupon.gitbook.io/wong-coupon)
+## Start reading
+
+**[Open the My Dev guides](https://wong-coupon.gitbook.io/flutter/)** and choose My Flutter, My AI or My ReactJS from the contents.
