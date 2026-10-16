@@ -19,6 +19,8 @@ tutorials, documentation, and open-source plugins.
 
 ## Writing and Resources
 
+- All documentation (GitBook): [ngmduc2012](https://wong-coupon.gitbook.io/ngmduc2012)
+- Documentation source (private): [my-docs](https://github.com/ngmduc2012/my-docs)
 - Flutter articles (GitBook): [wong-coupon.gitbook.io/flutter](https://wong-coupon.gitbook.io/flutter/)
 - Medium: [medium.com/@ngmduc2012](https://medium.com/@ngmduc2012)
 
