@@ -4,7 +4,7 @@ description: Kinh nghiệm xây dựng phần mềm với Flutter, AI và ReactJ
 
 # My Dev
 
-My Dev là nơi tôi chia sẻ những bài học trong quá trình xây dựng và vận hành phần mềm. Các bài viết đi từ vấn đề thực tế, giải thích cách tiếp cận và đưa ra ví dụ để bạn có thể áp dụng vào dự án của mình.
+My Dev là nơi tôi ghi lại cách mình giải quyết những vấn đề khi xây dựng phần mềm. Tôi chia sẻ bối cảnh, cách làm, lý do lựa chọn và những điểm còn phải cân nhắc, để bạn có thể đối chiếu với dự án của mình.
 
 **[Khám phá My Dev](https://wong-coupon.gitbook.io/flutter/)**
 
@@ -14,12 +14,14 @@ My Dev là nơi tôi chia sẻ những bài học trong quá trình xây dựng 
 * **My AI:** xây tính năng AI và sử dụng coding agent trong công việc phát triển phần mềm.
 * **My ReactJS:** React, TypeScript, giao diện realtime, quản lý dữ liệu, kiểm thử và triển khai ứng dụng web.
 
-## Dành cho ai
+## Cách tôi viết
 
-Nếu bạn đang làm ứng dụng di động, phát triển web hoặc đưa AI vào sản phẩm, My Dev là nơi tham khảo cách giải quyết những bài toán gặp trong công việc hằng ngày.
+Tôi đưa kết quả lên trước, sau đó giải thích vấn đề và các bước thực hiện. Phần kiến thức nền được giữ vừa đủ để theo được cách làm; những chủ đề đã có bài riêng sẽ được liên kết để bạn đọc tiếp.
 
-Bạn có thể chọn một nhóm chủ đề phù hợp rồi đọc từ vấn đề mình đang cần giải quyết. Mỗi bài tập trung vào bối cảnh, cách làm và những điểm cần cân nhắc khi áp dụng.
+Bạn có thể bắt đầu từ vấn đề đang gặp, xem điều kiện áp dụng rồi thử lại trong dự án của mình. Những giới hạn của cách làm cũng là một phần cần đọc cùng với kết quả.
 
 ## Bắt đầu đọc
 
 **[Mở bộ tài liệu My Dev](https://wong-coupon.gitbook.io/flutter/)** và chọn My Flutter, My AI hoặc My ReactJS trong mục lục.
+
+[Buy Me a Coffee](https://buymeacoffee.com/ducmng12g) | [Hỗ trợ tôi trên Ko-fi](https://ko-fi.com/I2I81AEJG8)

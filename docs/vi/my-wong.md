@@ -4,7 +4,7 @@ description: Ghi chép cá nhân về công cụ, cách học và ứng dụng c
 
 # My Wong
 
-My Wong là cuốn sổ ghi chép của tôi khi tìm hiểu công cụ và thử những cách làm mới. Tôi lưu lại những điều đã học, các mẹo hữu ích và trải nghiệm ứng dụng công nghệ để công việc hằng ngày thuận tiện hơn.
+My Wong là cuốn sổ tôi dùng để lưu lại những điều tìm hiểu ngoài công việc viết phần mềm: một công cụ, một phím tắt, cách ghi chép hay cách học. Mỗi bài là một ghi chú để tôi có thể quay lại, và bạn cũng có thể thử khi gặp nhu cầu tương tự.
 
 **[Khám phá My Wong](https://wong-coupon.gitbook.io/my-wong)**
 
@@ -14,10 +14,12 @@ My Wong là cuốn sổ ghi chép của tôi khi tìm hiểu công cụ và th�
 * **Cách học:** tổ chức việc học, ghi chép và quay lại những kiến thức đã tìm hiểu.
 * **AI và tự động hóa:** những hướng ứng dụng công nghệ mà tôi quan tâm và tiếp tục khám phá.
 
-## Dành cho người thích tìm tòi
+## Cách đọc những ghi chép này
 
-Bạn có thể đọc My Wong như một tập ghi chép mở: chọn một chủ đề đang quan tâm, thử cách làm phù hợp và điều chỉnh theo nhu cầu của mình.
+Bạn không cần đọc từ đầu đến cuối. Hãy chọn một việc đang muốn làm, thử theo ghi chép rồi điều chỉnh cho phù hợp với công cụ và thói quen của mình.
 
 ## Bắt đầu khám phá
 
 **[Mở các ghi chép My Wong](https://wong-coupon.gitbook.io/my-wong)** để xem mục lục và chọn bài muốn đọc.
+
+[Buy Me a Coffee](https://buymeacoffee.com/ducmng12g) | [Hỗ trợ tôi trên Ko-fi](https://ko-fi.com/I2I81AEJG8)
