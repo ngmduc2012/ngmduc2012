@@ -17,6 +17,8 @@ Bộ tài liệu giới thiệu các khái niệm Phật học cơ bản, phươ
 * **My Peace:** đếm niệm Phật bằng tay, giọng nói hoặc hẹn giờ; đặt mục tiêu và theo dõi tiến độ. Đăng nhập Google là tùy chọn để đồng bộ dữ liệu.
 * **Amitabha Buddha:** hỗ trợ đếm niệm Phật, Bồ tát và trì chú bằng tay hoặc nhận dạng giọng nói, lưu dữ liệu trên thiết bị.
 
+Đọc **[bài giới thiệu My Peace và Amitabha Buddha](https://wong-coupon.gitbook.io/wong-coupon/wong-coupon-vi/ung-dung/apps)** để xem tính năng và chọn ứng dụng phù hợp.
+
 Hai ứng dụng hiện có trên Android. **[Xem ứng dụng Wong Coupon trên Google Play](https://play.google.com/store/apps/dev?id=6105432812981546601&hl=vi)**.
 
 ## Bắt đầu với Wong Coupon

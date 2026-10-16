@@ -17,6 +17,8 @@ The collection introduces basic Buddhist concepts, Pure Land practice and medita
 * **My Peace:** count chants manually, use voice recognition or set a timer; set goals and track progress. Optional Google sign-in enables data synchronization.
 * **Amitabha Buddha:** count Buddha and Bodhisattva recitations or mantras manually or with voice recognition, with data stored on the device.
 
+Read the **[introduction to My Peace and Amitabha Buddha](https://wong-coupon.gitbook.io/wong-coupon/apps/apps)** to explore their features and choose an app for your needs.
+
 Both apps are available for Android. **[Browse Wong Coupon apps on Google Play](https://play.google.com/store/apps/dev?id=6105432812981546601&hl=en)**.
 
 ## Get started with Wong Coupon
